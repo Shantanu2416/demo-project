@@ -1,3 +1,4 @@
 # demo-project
-YThis is my first git repository.
+This is my first git repository.
+<bra>
 Author - Shantanu Singh
